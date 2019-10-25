@@ -30,8 +30,8 @@
 2. [Book: The DevOps Handbook](https://www.amazon.ca/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) ($)
 3. [What is Cloud Native Development?](https://thenewstack.io/10-key-attributes-of-cloud-native-applications/) (8 min)
 4. Python
-   -[Whetting Your Appetite](https://docs.python.org/3/tutorial/appetite.html)
-   -[Using the Python Interpreter](https://docs.python.org/3/tutorial/interpreter.html)
+   - [Whetting Your Appetite](https://docs.python.org/3/tutorial/appetite.html)
+   - [Using the Python Interpreter](https://docs.python.org/3/tutorial/interpreter.html)
   
 ## <span style="color:rgb(218,121,122)">Data Stream</span>
 
